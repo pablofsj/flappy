@@ -1,0 +1,29 @@
+#canvas {
+    width: 800px;
+    height: 400px;
+    border: 5px solid black;
+    margin-top: 20px;
+    margin-left: 250px;
+  }
+
+
+#conejo {
+    display: none;
+}
+
+#nube {
+    display: none;
+}
+
+#suelo {
+    display: none;
+}
+
+#enemigo {
+    display: none;
+}
+
+#homero {
+    display: none;
+}
+
